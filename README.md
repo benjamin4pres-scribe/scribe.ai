@@ -14,6 +14,15 @@ It also serves as an AI Dungeon Master assistant to answer rule questions and an
 * **📌 Smart Bookmarking:** Use `/note` to feed specific details to the AI, or `/mark` to timestamp epic moments.
 * **☁️ Slash Commands:** Easy-to-use interface directly within Discord.
 
+## 🔗 Add to Your Server
+
+**[Click here to invite Scribe.AI to your server](https://discord.com/oauth2/authorize?client_id=1444110469236265041&permissions=70379584&integration_type=0&scope=applications.commands+bot)**
+
+This link grants the bot the following required permissions:
+* **Voice:** Connect, Speak
+* **Text:** Send/Manage Messages, Embed Links, Attach Files, Read History, Add Reactions
+* **General:** Change Nickname (for status updates)
+
 ## 📖 How to Use
 
 ### 1. Start the Session
