@@ -4,7 +4,7 @@
 
 It also serves as an AI Dungeon Master assistant to answer rule questions and an image generator to visualize your campaign on the fly.
 
-![Bot Icon](https://github.com/thepawnking/scribe-ai/raw/main/Scribe_AI_Logo.png)
+![Bot Icon](https://github.com/benjamin4pres-scribe/scribe.ai/raw/main/Scribe_AI_Logo.png)
 
 ## ✨ Key Features
 
